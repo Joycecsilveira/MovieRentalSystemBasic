@@ -1,0 +1,7 @@
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\MovieRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\MovieRentalSystem.exe.config
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\MovieRentalSystem.exe
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\MovieRentalSystem.pdb
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\MovieRentalSystem.exe
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\MovieRentalSystem.pdb
+C:\Users\joyce.silveira\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\MovieRentalSystem.csprojAssemblyReference.cache
